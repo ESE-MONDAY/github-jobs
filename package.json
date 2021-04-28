@@ -2,7 +2,7 @@
   "name": "github-jobs",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/ESE-MONDAY/github-jobs.io",
+  "homepage":"http://ESE-MONDAY.github.io/github-jobs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
