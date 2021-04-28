@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ESE-MONDAY/github-jobs.io/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ESE-MONDAY/github-jobs.io/static/js/main.57c34481.chunk.js",
+    "main.js.map": "/ESE-MONDAY/github-jobs.io/static/js/main.57c34481.chunk.js.map",
+    "runtime-main.js": "/ESE-MONDAY/github-jobs.io/static/js/runtime-main.f6ddce6b.js",
+    "runtime-main.js.map": "/ESE-MONDAY/github-jobs.io/static/js/runtime-main.f6ddce6b.js.map",
+    "static/js/2.bba71ed0.chunk.js": "/ESE-MONDAY/github-jobs.io/static/js/2.bba71ed0.chunk.js",
+    "static/js/2.bba71ed0.chunk.js.map": "/ESE-MONDAY/github-jobs.io/static/js/2.bba71ed0.chunk.js.map",
+    "static/js/3.062510d9.chunk.js": "/ESE-MONDAY/github-jobs.io/static/js/3.062510d9.chunk.js",
+    "static/js/3.062510d9.chunk.js.map": "/ESE-MONDAY/github-jobs.io/static/js/3.062510d9.chunk.js.map",
+    "index.html": "/ESE-MONDAY/github-jobs.io/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ESE-MONDAY/github-jobs.io/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bba71ed0.chunk.js.LICENSE.txt": "/ESE-MONDAY/github-jobs.io/static/js/2.bba71ed0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6ddce6b.js",
+    "static/js/2.bba71ed0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.57c34481.chunk.js"
+  ]
+}
